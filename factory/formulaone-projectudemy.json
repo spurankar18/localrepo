@@ -1,0 +1,9 @@
+{
+	"name": "formulaone-projectudemy",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1ee59c0-5ddb-4f21-96aa-21482aa3ff4a",
+		"tenantId": "ec4f4526-940d-4b6d-a71e-5021d1ac8853"
+	}
+}
